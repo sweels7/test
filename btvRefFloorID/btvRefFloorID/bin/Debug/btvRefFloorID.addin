@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\btvRefFloorID.dll</Assembly>
+    <ClientId>a18a40ee-b074-4ce5-a7cd-f546754c9978</ClientId>
+    <FullClassName>btvRefFloorID.Class1</FullClassName>
+    <Text>btvRefFloorID</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

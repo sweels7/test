@@ -1,0 +1,6 @@
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\bin\Debug\btvRefFloorID.dll
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\bin\Debug\btvRefFloorID.pdb
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\obj\Debug\btvRefFloorID.csprojAssemblyReference.cache
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\obj\Debug\btvRefFloorID.csproj.CoreCompileInputs.cache
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\obj\Debug\btvRefFloorID.dll
+C:\Users\H3110\source\repos\btvRefFloorID\btvRefFloorID\obj\Debug\btvRefFloorID.pdb

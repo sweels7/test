@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>Beam0627.dll</Assembly>
+    <ClientId>627512bc-6c74-40cf-aa85-1d9d9c608e55</ClientId>
+    <FullClassName>Beam0627.Class1</FullClassName>
+    <Text>Class1</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
